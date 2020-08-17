@@ -4,9 +4,9 @@
 
 ### 1.1 Goal 
 
-The goal of the project is to create a pipeline to detect and track vehicles in a video. A demo of the pipeline can be found on [Youtube](https://youtu.be/Uvac_LIkh9s)
+The goal of the project is to create a pipeline to detect and track vehicles in a video. A demo of the pipeline can be found on [GoogleDrive](https://drive.google.com/drive/folders/1FtSDQqfM-zir0bwEGAteVRfMtiHTx1fT?usp=sharing)
 
-[![Vehicle Detection & Tracking Video](https://img.youtube.com/vi/Uvac_LIkh9s/0.jpg)]https://drive.google.com/drive/folders/1FtSDQqfM-zir0bwEGAteVRfMtiHTx1fT?usp=sharing)
+[![Vehicle Detection & Tracking Video](https://img.youtube.com/vi/Uvac_LIkh9s/0.jpg)(https://drive.google.com/drive/folders/1FtSDQqfM-zir0bwEGAteVRfMtiHTx1fT?usp=sharing)
 
 ### 1.2 Project structure
 
